@@ -1,0 +1,6 @@
+appID : 187673078391795
+appSecret : aa9d8c6afc1202f8ad7a56c435834a03
+accessToken : EAACqsAsr4ZCMBAC7g2rGi0d43hgOHjFw6sktfUcKZBRpxMyhMdnbjw4Yoqmr2XIqVMBzlYdlM0UoAU2wsDWd24zEqwEIoncdeA5YbqXhaBlDYNhgXye3czFDuLZCfF6PhtckKgUymMmEVZAcu3osEQh5tjy5RS64XFvtOnV8GgZDZD
+(from Bot fanpage)
+
+https://www.facebook.com/Bot-1910598562508713/messages/
