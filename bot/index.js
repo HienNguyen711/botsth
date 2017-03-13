@@ -26,6 +26,7 @@ module.exports = function(bp) {
         })
   })
 
+
   bp.hear(/stupidme/i, event => {
     const type = 'image' //audio , file, image, video
     const img_url = ''
