@@ -54,7 +54,16 @@ module.exports = function(bp) {
             },
         ]
     }
+    
+    
 
     bp.messenger.sendTemplate(event.user.id, payload, { typing: true })
 })
 }
+
+/*
+Users -> did not chat --> Bot: spam (send: 'spam')(..think more about this to be more interesting idea)
+Users -> chat anything --> Bot: rep :`Hello &(name)`
+
+
+*/
